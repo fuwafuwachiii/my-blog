@@ -5,7 +5,7 @@ pubDate: "Jul 08 2022"
 heroImage: "/blog-placeholder-3.jpg"
 ---
 
-Now, that's a fancy term you might have never heard of, and a peculiar topic for someone writing their very first blog post. Did I welcome you all before going on my ramble? No? Oopsie daisy.
+Now, that's a fancy term you might have never heard of, and a peculiar topic for someone writing their very first blog post. Did I welcome you all before going on with my ramble? No? Oopsie daisy.
 
 Welcome to the first blog ever. Okay, let's get straight to the point.
 
@@ -16,8 +16,8 @@ Think of this, you listen to some music online. That's certainly *not* the  orig
 What that means is that there's has been a split from the original source. The music or sound has been reproduced electro-acoustically, causing the split.
 
 This is how R.Murray Schafer defined this when he originally coined this term in his book "The Tuning of the World" back in 1977:
-Schizophonia- The Greek prefix schizo means split, separated; and phone is Greek for voice. Schizophonia refers to the split between an original 
-sound and its electroacoustical transmission or reproduction. It is another twentieth-century development. 
+<blockquote>Schizophonia- The Greek prefix schizo means split, separated; and phone is Greek for voice. Schizophonia refers to the split between an original 
+sound and its electroacoustical transmission or reproduction. </blockquote>
 
 Sounds quite simple, right? But here's the fascinating part about this.
 
