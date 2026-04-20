@@ -11,7 +11,7 @@ Welcome to the first blog ever. Okay, let's get straight to the point.
 
 <h2> What's Schizophonia? </h2>
 
-Think of this, you listen to some music online. That's certainly *not* the  original source (singer/instrumentalist/sound-maker) magically appearing in front of you and performing a personal live bedroom concert. It's a version of the audio that has been taken from the original source, and reproduced in some form.
+Think of this, you listen to some music online. That's certainly *not* the  original source (singer/instrumentalist/sound desginer) magically appearing in front of you and performing a personal live bedroom concert. It's a version of the audio that has been taken from the original source, and reproduced in some form.
 
 What that means is that there's has been a split from the original source. The music or sound has been reproduced electro-acoustically, causing the split.
 
