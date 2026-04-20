@@ -2,7 +2,7 @@
 title: "Schizophonia: The Normalized Split in the Online-Centric World"
 description: "Lorem ipsum dolor sit amet"
 pubDate: "Jul 08 2022"
-heroImage: "/firstblog.jpg"
+heroImage: "/blog-placeholder-4.jpg"
 ---
 
 Now, that's a fancy term you might have never heard of, and a peculiar topic for someone writing their very first blog post. Did I welcome you all before going on with my ramble? No? Oopsie daisy.
