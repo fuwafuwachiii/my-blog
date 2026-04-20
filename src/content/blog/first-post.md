@@ -2,7 +2,7 @@
 title: "Schizophonia: The Normalized Split in the Online-Centric World"
 description: "Lorem ipsum dolor sit amet"
 pubDate: "Jul 08 2022"
-heroImage: "https://pixabay.com/photos/microphone-audio-recording-podcast-338481"
+heroImage: "/firstblog.jpg"
 ---
 
 Now, that's a fancy term you might have never heard of, and a peculiar topic for someone writing their very first blog post. Did I welcome you all before going on with my ramble? No? Oopsie daisy.
@@ -18,8 +18,6 @@ What that means is that there's has been a split from the original source. The m
 This is how R.Murray Schafer defined this when he originally coined this term in his book "The Tuning of the World" back in 1977:
 <blockquote>Schizophonia- The Greek prefix schizo means split, separated; and phone is Greek for voice. Schizophonia refers to the split between an original 
 sound and its electroacoustical transmission or reproduction. </blockquote>
-
-<img src="https://pixabay.com/photos/microphone-audio-recording-podcast-338481"> 
 
 Sounds quite simple, right? But here's the fascinating part about this.
 
@@ -40,8 +38,6 @@ Clocks ticking, alarms ringing, and so much more.
 Every single one of these elements, when taken from their original source, reproduced electro-acoustically for a song-in-process, transforms and becomes art. 
 
 This is the beauty of Schizophonia. You can make art from noise and manipulate it however you would like to, once it is split from its original source. It is unlike the original source. This is how noise becomes sound.
-
-<img src="https://www.pexels.com/photo/a-person-pointing-on-the-screen-6892714">
 
 <h2> So, it's just Music Production, but in Academic Terms? </h2>
 
